@@ -43,5 +43,5 @@ Make sure you have a C compiler (GCC, Clang, or MSVC) and GLFW, GLEW development
 
 ```bash
 # Clone the repository
-git clone [https://gitlab.inf.elte.hu/YOUR_USERNAME/BlockGame.git](https://gitlab.inf.elte.hu/YOUR_USERNAME/BlockGame.git)
+git clone https://github.com/veresdomonkos/BlockGame.git
 cd BlockGame
